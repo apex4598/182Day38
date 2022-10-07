@@ -1,3 +1,6 @@
+
+var num = readInt("Enter number? ");
+//var num = window.prompt("Enter Number")
 function palindrome(num){
         var temp = num;
         var rem = 0, rev = 0;
